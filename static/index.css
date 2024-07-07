@@ -1,0 +1,147 @@
+#nav{
+    background-color: #f2efeb;
+    padding: 0%;
+    margin: 0;
+    display: flex;
+    
+}
+#nav-2{
+    padding-left: 800px;
+    padding-top: 15px;
+    
+}
+#link{
+    text-decoration: none;
+    color: #494949;
+    font-size: large;
+   
+}
+button{
+    height: 30px;
+    
+}
+#part1{
+    color: #494949;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 98.4px;
+    text-align: center;
+    padding: 0%;
+}
+#part2{
+    color: #494949;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 36px;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 800px;
+    font-style: oblique;
+}
+#part3{
+    height: 100%;
+    width: 100%;
+}
+#part4{
+    text-align: center;
+    margin-top: 70px;
+}
+#part4-1{
+    color: #494949;
+  font-size: 48px;
+  font-weight: 300;
+  line-height: 57.6px;
+  margin-right: 24px;
+  vertical-align: baseline;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+#part4-2{
+    color: #494949;
+  font-style:italic;
+  font-size: 70px;
+}
+#part5{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+#part5-1,#part5-2,#part5-3{
+    padding-right: 150px;
+    padding-left: 100px;
+    text-align: center;
+}
+#part5-12,#part5-22,#part5-32{
+    color: #95805a;
+  font-size: 42px;
+  font-weight: 500;
+  line-height: 50.4px;
+  margin-bottom: 18px;
+  max-width: 326px;
+  text-align: center;
+}
+#part5-13,#part5-23,#part5-33{
+    color: #95805a;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  margin: 0 auto;
+  max-width: 201px;
+  text-align: center;
+}
+#part6{
+    text-align: center;
+    margin-top: 100px;
+}
+#part6-1{
+  color: #494949;
+  font-size: 48px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  
+  line-height: 57.6px;
+  margin-right: 24px;
+  vertical-align: baseline;
+}
+#part6-2{
+    color: #494949;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 36px;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 800px;
+    font-style: oblique;
+}
+#part7-1,#part7-2{
+    display: flex;
+}
+#part7-11{
+    padding: 20px 70px 0px 70px;
+}
+#part7-12{
+    padding: 0px 70px 0px 70px;
+}
+#pics{
+    height: 265px;
+  max-width: 100%;
+  object-fit: contain;
+  width: 265px;
+}
+#titles{
+    color: #494949;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 28.8px;
+  margin-bottom: 16px;
+  margin-top: 12px;
+  text-align: center;
+}
+#part8{
+
+
+height: 100%;
+  max-width: 100%;
+  object-fit: cover;
+  width: 100%;
+}

@@ -1,0 +1,53 @@
+#part1{
+    background-image: url('https://www.interiordesignwala.com/userfiles/media/interiordesignwala.com/online-interior-design-services-banne.webp');
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+    z-index: 10;
+
+    height: 675px;
+    
+    
+}
+#part1-1{
+    
+    text-align: justify;
+    padding-left: 1%;
+    position: relative;
+    color: #ffffff;
+    font-size: 60px;
+    line-height: 1.2em;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family: 'Rubik', sans-serif;
+    padding-top: 100px;
+    padding-left: 80px;
+    font-weight: bold;
+}
+#part1-2{
+    
+    text-align: justify;
+    display: block;
+    color: #ffffff;
+    font-size: 18px;
+    /* padding-left: 2%; */
+    line-height: 1.6em;
+    font-weight: 400;
+    letter-spacing: normal;
+    text-transform: none;
+    font-family: 'Rubik', sans-serif;
+    
+    padding-left: 80px;
+    
+}
+ #part0{
+    background-color: #494949;
+    color: #ecf0f1;
+    text-align: center;
+    padding:   0px;
+    font-size: 30px;
+    padding-bottom: 25px;
+}
+
+
